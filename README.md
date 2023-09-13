@@ -8,7 +8,7 @@ Connected Dao with repository and create a Singleton Room Database.
 # Built with
 
 * Kotlin - Programming Language used in App.
-* Recyler View - To Display data in a list format.
+* Recycler View - To Display data in a list format.
 * Live Data - Used to observe the data on the UI layer
 * ViewModel - To Store UI-related data that isnt destroyed on UI changes.
 
